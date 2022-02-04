@@ -1,0 +1,59 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 7%;
+    background-color: rgb(33, 113, 179);
+}
+.nav-link{
+    list-style: none;
+    }
+.nav-link li{
+    display: inline-block;
+    padding: 0 20px;
+    }
+.nav-link li a{
+    transition: all 0.3s ease 0s;
+    }
+.nav-link li a:hover{
+    color: #ecf006;
+    }
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* background-color: #1572A1; */
+    /* background-image:url("http://innerve.tech/images/background.png") ; */
+    background-color: white;
+      }
+.left{
+    float: left;
+    height: 100%;
+    width: 35%;
+}
+.btn {
+    font-size:15px;
+    font-family:Arial;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:#ffffff;
+    border-color:#057fd0;
+    font-weight:bold;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    box-shadow: 0px 1px 0px 0px #f0f7fa;
+    text-shadow: 0px -1px 0px #5b6178;
+    background:linear-gradient(#33bdef, #019ad2);
+  }
+  .btn:hover {
+    background: linear-gradient(#019ad2, #33bdef);
+  }
+  .iframe{
+    position: absolute;
+    top: 100px;
+    right: 0;
+    border: 3px solid #73AD21;
+  }
