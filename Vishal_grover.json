@@ -1,0 +1,18 @@
+"Marks":[
+   {
+      "Subject":"V",
+      "Assignment1":"10/100",
+      "Exam1": "50/100"
+   },
+   {
+      "Subject":"BIO",
+      "Assignment1":"10/100",
+      "Exam1": "50/100"
+   },
+   {
+      "Subject":"Python",
+      "Assignment1":"10/100",
+      "Exam1": "50/100"
+   }
+]
+}
